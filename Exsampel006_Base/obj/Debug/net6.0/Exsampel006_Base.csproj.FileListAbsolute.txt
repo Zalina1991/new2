@@ -1,0 +1,15 @@
+C:\Users\HP\4\Exsampel006_Base\bin\Debug\net6.0\Exsampel006_Base.exe
+C:\Users\HP\4\Exsampel006_Base\bin\Debug\net6.0\Exsampel006_Base.deps.json
+C:\Users\HP\4\Exsampel006_Base\bin\Debug\net6.0\Exsampel006_Base.runtimeconfig.json
+C:\Users\HP\4\Exsampel006_Base\bin\Debug\net6.0\Exsampel006_Base.dll
+C:\Users\HP\4\Exsampel006_Base\bin\Debug\net6.0\Exsampel006_Base.pdb
+C:\Users\HP\4\Exsampel006_Base\obj\Debug\net6.0\Exsampel006_Base.csproj.AssemblyReference.cache
+C:\Users\HP\4\Exsampel006_Base\obj\Debug\net6.0\Exsampel006_Base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\4\Exsampel006_Base\obj\Debug\net6.0\Exsampel006_Base.AssemblyInfoInputs.cache
+C:\Users\HP\4\Exsampel006_Base\obj\Debug\net6.0\Exsampel006_Base.AssemblyInfo.cs
+C:\Users\HP\4\Exsampel006_Base\obj\Debug\net6.0\Exsampel006_Base.csproj.CoreCompileInputs.cache
+C:\Users\HP\4\Exsampel006_Base\obj\Debug\net6.0\Exsampel006_Base.dll
+C:\Users\HP\4\Exsampel006_Base\obj\Debug\net6.0\refint\Exsampel006_Base.dll
+C:\Users\HP\4\Exsampel006_Base\obj\Debug\net6.0\Exsampel006_Base.pdb
+C:\Users\HP\4\Exsampel006_Base\obj\Debug\net6.0\Exsampel006_Base.genruntimeconfig.cache
+C:\Users\HP\4\Exsampel006_Base\obj\Debug\net6.0\ref\Exsampel006_Base.dll
