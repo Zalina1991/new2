@@ -1,0 +1,15 @@
+C:\Users\HP\4\Exsampl001_Helloconsol\bin\Debug\net6.0\Exsampl001_Helloconsol.exe
+C:\Users\HP\4\Exsampl001_Helloconsol\bin\Debug\net6.0\Exsampl001_Helloconsol.deps.json
+C:\Users\HP\4\Exsampl001_Helloconsol\bin\Debug\net6.0\Exsampl001_Helloconsol.runtimeconfig.json
+C:\Users\HP\4\Exsampl001_Helloconsol\bin\Debug\net6.0\Exsampl001_Helloconsol.dll
+C:\Users\HP\4\Exsampl001_Helloconsol\bin\Debug\net6.0\Exsampl001_Helloconsol.pdb
+C:\Users\HP\4\Exsampl001_Helloconsol\obj\Debug\net6.0\Exsampl001_Helloconsol.csproj.AssemblyReference.cache
+C:\Users\HP\4\Exsampl001_Helloconsol\obj\Debug\net6.0\Exsampl001_Helloconsol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\4\Exsampl001_Helloconsol\obj\Debug\net6.0\Exsampl001_Helloconsol.AssemblyInfoInputs.cache
+C:\Users\HP\4\Exsampl001_Helloconsol\obj\Debug\net6.0\Exsampl001_Helloconsol.AssemblyInfo.cs
+C:\Users\HP\4\Exsampl001_Helloconsol\obj\Debug\net6.0\Exsampl001_Helloconsol.csproj.CoreCompileInputs.cache
+C:\Users\HP\4\Exsampl001_Helloconsol\obj\Debug\net6.0\Exsampl001_Helloconsol.dll
+C:\Users\HP\4\Exsampl001_Helloconsol\obj\Debug\net6.0\refint\Exsampl001_Helloconsol.dll
+C:\Users\HP\4\Exsampl001_Helloconsol\obj\Debug\net6.0\Exsampl001_Helloconsol.pdb
+C:\Users\HP\4\Exsampl001_Helloconsol\obj\Debug\net6.0\Exsampl001_Helloconsol.genruntimeconfig.cache
+C:\Users\HP\4\Exsampl001_Helloconsol\obj\Debug\net6.0\ref\Exsampl001_Helloconsol.dll
