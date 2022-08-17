@@ -1,0 +1,15 @@
+C:\Users\HP\4\Exsampl003_Sum\bin\Debug\net6.0\Exsampl003_Sum.exe
+C:\Users\HP\4\Exsampl003_Sum\bin\Debug\net6.0\Exsampl003_Sum.deps.json
+C:\Users\HP\4\Exsampl003_Sum\bin\Debug\net6.0\Exsampl003_Sum.runtimeconfig.json
+C:\Users\HP\4\Exsampl003_Sum\bin\Debug\net6.0\Exsampl003_Sum.dll
+C:\Users\HP\4\Exsampl003_Sum\bin\Debug\net6.0\Exsampl003_Sum.pdb
+C:\Users\HP\4\Exsampl003_Sum\obj\Debug\net6.0\Exsampl003_Sum.csproj.AssemblyReference.cache
+C:\Users\HP\4\Exsampl003_Sum\obj\Debug\net6.0\Exsampl003_Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\4\Exsampl003_Sum\obj\Debug\net6.0\Exsampl003_Sum.AssemblyInfoInputs.cache
+C:\Users\HP\4\Exsampl003_Sum\obj\Debug\net6.0\Exsampl003_Sum.AssemblyInfo.cs
+C:\Users\HP\4\Exsampl003_Sum\obj\Debug\net6.0\Exsampl003_Sum.csproj.CoreCompileInputs.cache
+C:\Users\HP\4\Exsampl003_Sum\obj\Debug\net6.0\Exsampl003_Sum.dll
+C:\Users\HP\4\Exsampl003_Sum\obj\Debug\net6.0\refint\Exsampl003_Sum.dll
+C:\Users\HP\4\Exsampl003_Sum\obj\Debug\net6.0\Exsampl003_Sum.pdb
+C:\Users\HP\4\Exsampl003_Sum\obj\Debug\net6.0\Exsampl003_Sum.genruntimeconfig.cache
+C:\Users\HP\4\Exsampl003_Sum\obj\Debug\net6.0\ref\Exsampl003_Sum.dll
