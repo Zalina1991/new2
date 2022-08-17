@@ -1,0 +1,15 @@
+C:\Users\HP\4\Exsampl005_CondiyionElse\obj\Debug\net6.0\Exsampl005_CondiyionElse.csproj.AssemblyReference.cache
+C:\Users\HP\4\Exsampl005_CondiyionElse\obj\Debug\net6.0\Exsampl005_CondiyionElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\4\Exsampl005_CondiyionElse\obj\Debug\net6.0\Exsampl005_CondiyionElse.AssemblyInfoInputs.cache
+C:\Users\HP\4\Exsampl005_CondiyionElse\obj\Debug\net6.0\Exsampl005_CondiyionElse.AssemblyInfo.cs
+C:\Users\HP\4\Exsampl005_CondiyionElse\obj\Debug\net6.0\Exsampl005_CondiyionElse.csproj.CoreCompileInputs.cache
+C:\Users\HP\4\Exsampl005_CondiyionElse\bin\Debug\net6.0\Exsampl005_CondiyionElse.exe
+C:\Users\HP\4\Exsampl005_CondiyionElse\bin\Debug\net6.0\Exsampl005_CondiyionElse.deps.json
+C:\Users\HP\4\Exsampl005_CondiyionElse\bin\Debug\net6.0\Exsampl005_CondiyionElse.runtimeconfig.json
+C:\Users\HP\4\Exsampl005_CondiyionElse\bin\Debug\net6.0\Exsampl005_CondiyionElse.dll
+C:\Users\HP\4\Exsampl005_CondiyionElse\bin\Debug\net6.0\Exsampl005_CondiyionElse.pdb
+C:\Users\HP\4\Exsampl005_CondiyionElse\obj\Debug\net6.0\Exsampl005_CondiyionElse.dll
+C:\Users\HP\4\Exsampl005_CondiyionElse\obj\Debug\net6.0\refint\Exsampl005_CondiyionElse.dll
+C:\Users\HP\4\Exsampl005_CondiyionElse\obj\Debug\net6.0\Exsampl005_CondiyionElse.pdb
+C:\Users\HP\4\Exsampl005_CondiyionElse\obj\Debug\net6.0\Exsampl005_CondiyionElse.genruntimeconfig.cache
+C:\Users\HP\4\Exsampl005_CondiyionElse\obj\Debug\net6.0\ref\Exsampl005_CondiyionElse.dll
